@@ -1,0 +1,6 @@
+a=(12,3,5,6)
+b=(12,5,9,8)
+c=set(a)
+d=set(b)
+e=tuple (c&d)
+print(e)

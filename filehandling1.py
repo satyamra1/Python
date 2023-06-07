@@ -1,0 +1,1 @@
+hihihi heroprint(c*2)
